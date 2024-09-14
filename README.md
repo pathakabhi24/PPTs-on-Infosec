@@ -31,7 +31,3 @@ For questions or feedback regarding this repository, feel free to contact [Abhin
 
 ---
 
-### Additional Tips:
-- **Badges**: Consider adding badges for build status, license, or any other relevant information using markdown.
-- **Acknowledgments**: If you've used resources or presentations from others, acknowledge them appropriately in the README.
-
